@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Abdullah Al Sahaf</h1>
+
+<h3 align="center">Lifelong Coder | CSE Student @ EWU | Scaling ML Concepts | Open Source Enthusiast</h3>
+
+---
+
 # 💫 About Me:
 🎓 I’m currently studying: Computer Science and Engineering (CSE) at East West University (EWU).<br><br>🌱 I’m currently learning: Data Structures and Algorithms (DSA)  and exploring Machine Learning concepts.<br><br>💻 Languages I know: C, C++, Java, and Python.<br><br>⚡ Fun fact: I love bridging the gap between hardware and software, and I'm always looking for new ways to optimize my code!
 
