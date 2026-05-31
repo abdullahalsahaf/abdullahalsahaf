@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Sahaf</h1>
 
-<h3 align="center">Lifelong Coder | CSE Student @ EWU | Scaling ML Concepts | Open Source Enthusiast</h3>
+<h3 align="center">CSE Student @ EWU | Learning DSA | Scaling ML Concepts | Open Source Enthusiast</h3>
 
 ---
 
